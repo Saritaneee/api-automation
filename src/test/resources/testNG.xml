@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="API Automation suite">
+    <test name="API Test">
+        <classes>
+            <class name="apiauto.TestRegres"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
